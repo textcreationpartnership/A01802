@@ -37,2288 +37,1202 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A catalogue of the bishops of England, since the first planting of Christian religion in this island
+
+1. TO THE RIGHT Honorable Sir THOMAS SACKVYLL, Baron of Buckhurst, Knight of the most noble order of the Garter, Lord high Treasurer of England, and Chauncellor of the Vniuersitie of Oxford.
+
+1. To the Reader.
+
 #####Body#####
 
-1. 1. Augustine.
+1. The Archbishops of Canterbury.
 
-    _ In English thus:
+    _ 1. Augustine.
 
-1. 2. Laurence.
+    _ 2. Laurence.
 
-    _ In English thus:
+    _ 3. Mellitus.
 
-1. 3. Mellitus.
+    _ 4. Iustus.
 
-    _ In English thus:
+    _ 5. Honorius.
 
-1. 4. Iustus.
+    _ 6. Deus-dedit or Adeodatus.
 
-    _ In English thus:
+    _ 7. Theodorus.
 
-1. 5. Honorius.
+    _ 8. Birhtuald.
 
-    _ In English thus:
+    _ 9. Tatwyn.
 
-1. 6. Deus-dedit or Adeodatus.
+    _ 10. Nothelinus.
 
-    _ In English thus:
+    _ 11. Cuthbert or Cudbrict.
 
-1. 7. Theodorus.
+    _ 12. Bregwyn.
 
-    _ In English thus:
+    _ 13. Lambert.
 
-1. 8. Birhtuald.
+    _ 14. Athelard or Edelred.
 
-    _ In English thus:
+    _ 15. Wlfred.
 
-1. 9. Tatwyn.
+    _ 16. Theologild.
 
-    _ In English thus:
+    _ 17. Celnoth.
 
-1. 10. Nothelinus.
+    _ 18. Athelredus.
 
-    _ In English thus:
+    _ 19. Plegmund.
 
-1. 11. Cuthbert or Cudbrict.
+    _ 20. Athelmus.
 
-    _ In English thus:
+    _ 21. Wlfelmus.
 
-1. 12. Bregwyn.
+    _ 22. Odo Seuerus.
 
-    _ In English thus:
+    _ 23. Dunstan.
 
-1. 13. Lambert.
+    _ 24. Ethelgar.
 
-    _ In English thus:
+    _ 25. Siricius.
 
-1. 14. Athelard or Edelred.
+    _ 26. Aluricius alias Alfricus.
 
-    _ In English thus:
+    _ 27. Elphege.
 
-1. 15. Wlfred.
+    _ 28. Liunig alias Lifwing.
 
-    _ In English thus:
+    _ 29. Agelnothus alias Aethelnotus.
 
-1. 16. Theologild.
+    _ 30. Eadsin.
 
-    _ In English thus:
+    _ 31. Robert, surnamed Gemeticensis.
 
-1. 17. Celnoth.
+    _ 32. Stigand.
 
-    _ In English thus:
+    _ 33. Lanfrank.
 
-1. 18. Athelredus.
+    _ 34. Anselm.
 
-    _ In English thus:
+    _ 35. Rodolphus.
 
-1. 19. Plegmund.
+    _ 36. William Corbell.
 
-    _ In English thus:
+    _ 37. Theobald.
 
-1. 20. Athelmus.
+    _ 38. Thomas Becket.
 
-    _ In English thus:
+    _ 39. Richard.
 
-1. 21. Wlfelmus.
+    _ 40. Baldwin.
 
-    _ In English thus:
+    _ 41. Reginald Fitz-iocelinc.
 
-1. 22. Odo Seuerus.
+    _ 42. Hubert Walter.
 
-    _ In English thus:
+    _ 43. Stephen Langton.
 
-1. 23. Dunstan.
+    _ 44. Richard Magnus.
 
-    _ In English thus:
+    _ 45. Saint Edmund.
 
-1. 24. Ethelgar.
+    _ 46. Boniface.
 
-    _ In English thus:
+    _ 47. Robert Kilwardby.
 
-1. 25. Siricius.
+    _ 48. Iohn Peckham.
 
-    _ In English thus:
+    _ 49. Robert Winchelsey.
 
-1. 26. Aluricius alias Alfricus.
+    _ 50. Walter Raynolds.
 
-    _ In English thus:
+    _ 51. Simon Mepham.
 
-1. 27. Elphege.
+    _ 52. Iohn Stratford.
 
-    _ In English thus:
+    _ 53. Iohn Vfford.
 
-1. 28. Liunig alias Lifwing.
+    _ 54. Thomas Bradwardin.
 
-    _ In English thus:
+    _ 55. Simon Islip.
 
-1. 29. Agelnothus alias Aethelnotus.
+    _ 56. Simon Langham.
 
-    _ In English thus:
+    _ 57. William Wittlesey.
 
-1. 30. Eadsin.
+    _ 58. Simon Sudbury.
 
-    _ In English thus:
+    _ 55. William Courtney.
 
-1. 31. Robert, surnamed Gemeticensis.
+    _ 60. Thomas Arundell.
 
-    _ In English thus:
+    _ 61. Henry Chichley.
 
-1. 32. Stigand.
+    _ 62. Iohn Stafford.
 
-    _ In English thus:
+    _ 63. Iohn Kemp.
 
-1. 33. Lanfrank.
+    _ 65. Iohn Moorton.
 
-    _ In English thus:
+    _ 66. Henry Deane.
 
-1. 34. Anselm.
+    _ 67. William Warham.
 
-    _ In English thus:
+    _ 68. Thomas Cranmer.
 
-1. 35. Rodolphus.
+    _ 69. Reginald Poole.
 
-    _ In English thus:
+    _ 70. Matthew Parker.
 
-1. 36. William Corbell.
+    _ 71. Edmund Gryndall.
 
-    _ In English thus:
-
-1. 37. Theobald.
-
-    _ In English thus:
-
-1. 38. Thomas Becket.
-
-    _ In English thus:
-
-1. 39. Richard.
-
-    _ In English thus:
-
-1. 40. Baldwin.
-
-    _ In English thus:
-
-1. 41. Reginald Fitz-iocelinc.
-
-    _ In English thus:
-
-1. 42. Hubert Walter.
-
-    _ In English thus:
-
-1. 43. Stephen Langton.
-
-    _ In English thus:
-
-1. 44. Richard Magnus.
-
-    _ In English thus:
-
-1. 45. Saint Edmund.
-
-    _ In English thus:
-
-1. 46. Boniface.
-
-    _ In English thus:
-
-1. 47. Robert Kilwardby.
-
-    _ In English thus:
-
-1. 48. Iohn Peckham.
-
-    _ In English thus:
-
-1. 49. Robert Winchelsey.
-
-    _ In English thus:
-
-1. 50. Walter Raynolds.
-
-    _ In English thus:
-
-1. 51. Simon Mepham.
-
-    _ In English thus:
-
-1. 52. Iohn Stratford.
-
-    _ In English thus:
-
-1. 53. Iohn Vfford.
-
-    _ In English thus:
-
-1. 54. Thomas Bradwardin.
-
-    _ In English thus:
-
-1. 55. Simon Islip.
-
-    _ In English thus:
-
-1. 56. Simon Langham.
-
-    _ In English thus:
-
-1. 57. William Wittlesey.
-
-    _ In English thus:
-
-1. 58. Simon Sudbury.
-
-    _ In English thus:
-
-1. 55. William Courtney.
-
-    _ In English thus:
-
-1. 60. Thomas Arundell.
-
-    _ In English thus:
-
-1. 61. Henry Chichley.
-
-    _ In English thus:
-
-1. 62. Iohn Stafford.
-
-    _ In English thus:
-
-1. 63. Iohn Kemp.
-
-    _ In English thus:
-
-1. 65. Iohn Moorton.
-
-    _ In English thus:
-
-1. 66. Henry Deane.
-
-    _ In English thus:
-
-1. 67. William Warham.
-
-    _ In English thus:
-
-1. 68. Thomas Cranmer.
-
-    _ In English thus:
-
-1. 69. Reginald Poole.
-
-    _ In English thus:
-
-1. 70. Matthew Parker.
-
-    _ In English thus:
-
-1. 71. Edmund Gryndall.
-
-    _ In English thus:
-
-1. 72. Iohn Whitegift.
-
-    _ In English thus:
+    _ 72. Iohn Whitegift.
 The Archbishopricke of Canterbury is valued in the Queenes bookes at 3093, l. 18. s. 8. d. ob. farth
-    _ In English thus:
+1. The Bishops of London.
 
-1. 1. Mellitus.
+    _ 1. Mellitus.
 
-    _ In English thus:
+    _ 2. Ceadda.
 
-1. 2. Ceadda.
+    _ 3. Wina.
 
-    _ In English thus:
+    _ 4. Erkenwald.
 
-1. 3. Wina.
+    _ After Erkenwald sate these in order successiuely.
 
-    _ In English thus:
+    _ 33. William.
 
-1. 4. Erkenwald.
+    _ 34. Hugh d' Oriuall.
 
-    _ In English thus:
+    _ 35. Mauritius.
 
-1. After Erkenwald sate these in order successiuely.
+    _ 36. Richard Beauveys.
 
-    _ In English thus:
+    _ 37. Gilbertus Vniuersalis.
 
-1. 33. William.
+    _ 38. Robertus de Sigillo.
 
-    _ In English thus:
+    _ 39. Richard Beauveys.
 
-1. 34. Hugh d' Oriuall.
+    _ 40. Gilbert Foliot.
 
-    _ In English thus:
+    _ 41. Richard Fitz-neale.
 
-1. 35. Mauritius.
+    _ 42. William de Sancta Maria.
 
-    _ In English thus:
+    _ 43. Eustachius de Fauconbridge.
 
-1. 36. Richard Beauveys.
+    _ 44. Rogerus Niger.
 
-    _ In English thus:
+    _ 45. Fulco Basset.
 
-1. 37. Gilbertus Vniuersalis.
+    _ 46. Henry de Wingham.
 
-    _ In English thus:
+    _ 47. Kichard Talbot.
 
-1. 38. Robertus de Sigillo.
+    _ 48. Henry de Sandwich.
 
-    _ In English thus:
+    _ 49. Iohn de 〈◊〉.
 
-1. 39. Richard Beauveys.
+    _ 50. Richard de Grauesend.
 
-    _ In English thus:
+    _ 51. Ralfe de Baldocke.
 
-1. 40. Gilbert Foliot.
+    _ 52. Gilbert Segraue.
 
-    _ In English thus:
+    _ 53. Richard Newport.
 
-1. 41. Richard Fitz-neale.
+    _ 54. Stephen Grauesend.
 
-    _ In English thus:
+    _ 55. Richard Byntworth, or Wentworth.
 
-1. 42. William de Sancta Maria.
+    _ 56. Ralfe Stratford.
 
-    _ In English thus:
+    _ 57. Michaell Northbrooke.
 
-1. 43. Eustachius de Fauconbridge.
+    _ 58. Simon Sudbury.
 
-    _ In English thus:
+    _ 59. William Courtney.
 
-1. 44. Rogerus Niger.
+    _ 60. Robert Braybrooke.
 
-    _ In English thus:
+    _ 61. Roger Walden.
 
-1. 45. Fulco Basset.
+    _ 62. Nicholas Bubwith.
 
-    _ In English thus:
+    _ 63. Richard Clifford.
 
-1. 46. Henry de Wingham.
+    _ 64 Iohn Kemp.
 
-    _ In English thus:
+    _ 65. William Gray.
 
-1. 47. Kichard Talbot.
+    _ 66. Robert Fitz-hugh.
 
-    _ In English thus:
+    _ 67. Robert Gilbert.
 
-1. 48. Henry de Sandwich.
+    _ 68. Thomas Kemp.
 
-    _ In English thus:
+    _ 69. I ohn Marshall.
 
-1. 49. Iohn de 〈◊〉.
+    _ 70. Richard Hyll.
 
-    _ In English thus:
+    _ 71. Thomas Sauage.
 
-1. 50. Richard de Grauesend.
+    _ 72. William Warham.
 
-    _ In English thus:
+    _ 73. William Barnes.
 
-1. 51. Ralfe de Baldocke.
+    _ 74. Richard Fitz-Iames.
 
-    _ In English thus:
+    _ 75. Cuthbert Tonstall.
 
-1. 52. Gilbert Segraue.
+    _ 76. Iohn Stokesley.
 
-    _ In English thus:
+    _ 77. Edmund Boner.
 
-1. 53. Richard Newport.
+    _ 78. Nicolas Ridley.
 
-    _ In English thus:
+    _ 79. Edmund Grindall.
 
-1. 54. Stephen Grauesend.
+    _ 80. Edwyn Sands.
 
-    _ In English thus:
+    _ 81. Iohn Elmer.
 
-1. 55. Richard Byntworth, or Wentworth.
+    _ 82. Richard Fletcher.
 
-    _ In English thus:
+    _ 83. Richard Bancroft.
 
-1. 56. Ralfe Stratford.
+1. The Bishops of Winchester.
 
-    _ In English thus:
+    _ 1. Birnius.
 
-1. 57. Michaell Northbrooke.
+    _ 2. Agilbertus.
 
-    _ In English thus:
+    _ 3. Wina.
 
-1. 58. Simon Sudbury.
+    _ 4. Elentherius.
 
-    _ In English thus:
+    _ 5. Headda.
 
-1. 59. William Courtney.
+    _ 6. Daniell.
 
-    _ In English thus:
+    _ 7. Humfridus.
 
-1. 60. Robert Braybrooke.
+    _ 8. Kinehardus.
 
-    _ In English thus:
+    _ 9. Hathelardus.
 
-1. 61. Roger Walden.
+    _ Then these:
+ANd Helmstanus of whom likewise little or nothing is deliuered, but that he lieth buried vpon the NoABout this time many suppose Athelwulf or Athulf (that was king of the West Saxons twenty yéeres) to
+    _ 18. Swithunus.
 
-    _ In English thus:
+    _ 19. Adferthus.
 
-1. 62. Nicholas Bubwith.
+    _ 20. Dumbertus.
 
-    _ In English thus:
+    _ 21. Denewulsus.
 
-1. 63. Richard Clifford.
+    _ 22. Athelmus.
 
-    _ In English thus:
+    _ Bertulsus.
 
-1. 64 Iohn Kemp.
+    _ 23. Frithstane.
 
-    _ In English thus:
+    _ 24. Brinstan.
 
-1. 65. William Gray.
+    _ 25. Elphegus Calvus.
 
-    _ In English thus:
+    _ 26. Elfsinus, alias Alfsins.
 
-1. 66. Robert Fitz-hugh.
+    _ 27. Brithelmus.
 
-    _ In English thus:
+    _ 27. Ethelwald.
 
-1. 67. Robert Gilbert.
+    _ 29. Elphegus.
 
-    _ In English thus:
+    _ 30. Kenulphus, alias Elsius.
 
-1. 68. Thomas Kemp.
+    _ 31. Brithwold.
 
-    _ In English thus:
+    _ 32. Elsinus, or Eadsinus.
 
-1. 69. I ohn Marshall.
+    _ 33. Alwynus.
 
-    _ In English thus:
+    _ 34. Stigandus.
 
-1. 70. Richard Hyll.
+    _ 35. Walkelyn.
 
-    _ In English thus:
+    _ 36. William Giffard.
 
-1. 71. Thomas Sauage.
+    _ 37. Henry de Bloys.
 
-    _ In English thus:
+    _ 38. Richard Tocline alias More.
 
-1. 72. William Warham.
+    _ 39. Godfridus de Lucy.
 
-    _ In English thus:
+    _ 40. Peter de la Roche.
 
-1. 73. William Barnes.
+    _ 41. William de Raley.
 
-    _ In English thus:
+    _ 42. Ethelmarus.
 
-1. 74. Richard Fitz-Iames.
+    _ 43. Iohn Gernsey.
 
-    _ In English thus:
+    _ 44. Nicholas de Ely.
 
-1. 75. Cuthbert Tonstall.
+    _ 45. Iohn de Pontissara.
 
-    _ In English thus:
+    _ 46. Henry Woodloke.
 
-1. 76. Iohn Stokesley.
+    _ 47. Iohn Sendall.
 
-    _ In English thus:
+    _ 48. Reginaldus Asserius.
 
-1. 77. Edmund Boner.
+    _ 49. Iohn de Stratford.
 
-    _ In English thus:
+    _ 50. Adam Tarlton, alias de Orlton.
 
-1. 78. Nicolas Ridley.
+    _ 51. William Edendon.
 
-    _ In English thus:
+    _ 52. William Wickham.
 
-1. 79. Edmund Grindall.
+    _ 53. Henry Beauforte.
 
-    _ In English thus:
+    _ 54. William Waynflet.
 
-1. 80. Edwyn Sands.
+    _ 55. Peter Courtney.
 
-    _ In English thus:
+    _ 56. Thomas Langton.
 
-1. 81. Iohn Elmer.
+    _ 57. Richard Foxe.
 
-    _ In English thus:
+    _ 58. Thomas Woolsey.
 
-1. 82. Richard Fletcher.
+    _ 59. Stephen Gardiner.
 
-    _ In English thus:
+    _ 60. Iohn Poynet.
 
-1. 83. Richard Bancroft.
+    _ 61. Iohn White.
 
-    _ In English thus:
+    _ 62. Robert Horne.
 
-1. 1. Birnius.
+    _ 63. Iohn Watson.
 
-    _ In English thus:
+    _ 64. Thomas Cooper.
 
-1. 2. Agilbertus.
+    _ 65. William Wickham.
 
-    _ In English thus:
+    _ 66. William Day.
 
-1. 3. Wina.
+    _ 67. Thomas Bilson.
 
-    _ In English thus:
+1. The Bishops of Ely.
 
-1. 4. Elentherius.
+    _ 1. Heruaeus.
 
-    _ In English thus:
+    _ 2. Nigellus.
 
-1. 5. Headda.
+    _ 3. Galfridus Rydall.
 
-    _ In English thus:
+    _ 4. William Langchamp.
 
-1. 6. Daniell.
+    _ 5. Eustachius.
 
-    _ In English thus:
+    _ 6. Iohn de Fontibus.
 
-1. 7. Humfridus.
+    _ 7. Geoffry de Burgo.
 
-    _ In English thus:
+    _ 8. Hugh NorWold.
 
-1. 8. Kinehardus.
+    _ 9. William de Kilkenny.
 
-    _ In English thus:
+    _ 10. Hugh Balsam.
 
-1. 9. Hathelardus.
+    _ 11. Iohn de Kyrkby.
 
-    _ In English thus:
+    _ 12. William de Luda.
 
-1. Then these:
+    _ 13. Ralph Walpoole.
 
-    _ In English thus:
-ANd Helmstanus of whom likewise little or nothing is deliuered, but that he lieth buried vpon the No
-    _ In English thus:
-ABout this time many suppose Athelwulf or Athulf (that was king of the West Saxons twenty yéeres) to
-    _ In English thus:
+    _ 14. Robert Orford.
 
-1. 18. Swithunus.
+    _ 15. Iohn de Keeton.
 
-    _ In English thus:
+    _ 16. Iohn Hotham.
 
-1. 19. Adferthus.
+    _ 17. Simon Mountacute.
 
-    _ In English thus:
+    _ 18. Thomas Lysle.
 
-1. 20. Dumbertus.
+    _ 19. Simon Laugham.
 
-    _ In English thus:
+    _ 20. Iohn Barnet.
 
-1. 21. Denewulsus.
+    _ 21. Thomas Arundell.
 
-    _ In English thus:
+    _ 22. Iohn Fordham.
 
-1. 22. Athelmus.
+    _ 23. Philip Morgan.
 
-    _ In English thus:
+    _ 24. Lewes Lushborough.
 
-1. Bertulsus.
+    _ 25. Thomas Bourchier.
 
-    _ In English thus:
+    _ 26. William Gray.
 
-1. 23. Frithstane.
+    _ 27. Iohn Moorton.
 
-    _ In English thus:
+    _ 28. Iohn Alcock.
 
-1. 24. Brinstan.
+    _ 29. Richard Redman.
 
-    _ In English thus:
+    _ 30. Iames Stanley.
 
-1. 25. Elphegus Calvus.
+    _ 31. Nicholas West.
 
-    _ In English thus:
+    _ 32. Thomas Gooderich
 
-1. 26. Elfsinus, alias Alfsins.
+      * In English thus:
 
-    _ In English thus:
+    _ 33. Thomas Thirlby.
 
-1. 27. Brithelmus.
+    _ 34. Richard Coxe.
 
-    _ In English thus:
+    _ 35. Martyn 〈◊〉.
 
-1. 27. Ethelwald.
+1. The Bishops of Lincolne.
 
-    _ In English thus:
+    _ 1. Remingius de Feschamp.
 
-1. 29. Elphegus.
+    _ 2. Robert Bloett.
 
-    _ In English thus:
+    _ 3. Alexander.
 
-1. 30. Kenulphus, alias Elsius.
+    _ 4. Robert de Chisuey.
 
-    _ In English thus:
+    _ 5. Geoffry Plantagenet.
 
-1. 31. Brithwold.
+    _ 6. Walter de Constantijs.
 
-    _ In English thus:
+    _ 7. Saint Hugh.
 
-1. 32. Elsinus, or Eadsinus.
+    _ 8. William de Bleys.
 
-    _ In English thus:
+    _ 9. Hugh de Wels.
 
-1. 33. Alwynus.
+    _ 10. Robert Grosse-teste
 
-    _ In English thus:
+    _ 11. Henry Lexinton.
 
-1. 34. Stigandus.
+    _ 12. Benedictus Grauesend
 
-    _ In English thus:
+    _ 13. Oliuer Sutton.
 
-1. 35. Walkelyn.
+    _ 14. Iohn d'Aldarby.
 
-    _ In English thus:
+    _ 15. Thomas Beake.
 
-1. 36. William Giffard.
+    _ 16. Henry Burwash.
 
-    _ In English thus:
+    _ 17. Thomas le Becke.
 
-1. 37. Henry de Bloys.
+    _ 18. Iohn Synwell.
 
-    _ In English thus:
+    _ 19. Iohn Bokingham.
 
-1. 38. Richard Tocline alias More.
+    _ 20. Henry Beaufort.
 
-    _ In English thus:
+    _ 21. Philip Repingdon.
 
-1. 39. Godfridus de Lucy.
+    _ 22. Richard Flemming.
 
-    _ In English thus:
+    _ 23. William Gray.
 
-1. 40. Peter de la Roche.
+    _ 24. William Alnewike.
 
-    _ In English thus:
+    _ 25. Marmaduke Lumley.
 
-1. 41. William de Raley.
+    _ 26. Iohn Chedworth.
 
-    _ In English thus:
+    _ 27. Thomas Rotheram.
 
-1. 42. Ethelmarus.
+    _ 28. Iohn Russell.
 
-    _ In English thus:
+    _ 29. William Smith.
 
-1. 43. Iohn Gernsey.
+    _ 30. Thomas Woolsey.
 
-    _ In English thus:
+    _ 31. William Atwater.
 
-1. 44. Nicholas de Ely.
+    _ 32. Iohn Longland.
 
-    _ In English thus:
+    _ 33. Henry Holbech.
 
-1. 45. Iohn de Pontissara.
+    _ 34. Iohn Tayler.
 
-    _ In English thus:
+    _ 35. Iohn White.
 
-1. 46. Henry Woodloke.
+    _ 36. Thomas Watson.
 
-    _ In English thus:
+    _ 37. Nicholas Bullingham.
 
-1. 47. Iohn Sendall.
+    _ 38. Thomas Cooper.
 
-    _ In English thus:
+    _ 39. William Wickham.
 
-1. 48. Reginaldus Asserius.
+    _ 40. William Chaderton.
 
-    _ In English thus:
+1. The Bishops of Couentry and Lichfield.
 
-1. 49. Iohn de Stratford.
+    _ 1. Dwyna.
 
-    _ In English thus:
+    _ 2. Cellach.
 
-1. 50. Adam Tarlton, alias de Orlton.
+    _ 3. Trumhere.
 
-    _ In English thus:
+    _ 4. Iaruman.
 
-1. 51. William Edendon.
+    _ 5. Cedda.
 
-    _ In English thus:
+    _ 6. Winfride.
 
-1. 52. William Wickham.
+    _ 7. Saxulf.
 
-    _ In English thus:
+    _ 8. Headda.
 
-1. 53. Henry Beauforte.
+    _ 9. Aldwyn.
 
-    _ In English thus:
+    _ 10. Witta.
 
-1. 54. William Waynflet.
+    _ 33. Peter.
 
-    _ In English thus:
+    _ 34. Robert de Limesey.
 
-1. 55. Peter Courtney.
+    _ 35. Robert Peche, alias Peccam.
 
-    _ In English thus:
+    _ 36. Roger de Clinton.
 
-1. 56. Thomas Langton.
+    _ 37. Walter Durdent.
 
-    _ In English thus:
+    _ 38. Richard Peche.
 
-1. 57. Richard Foxe.
+    _ 39. Girardus Puella.
 
-    _ In English thus:
+    _ 40. Hugh Nouaunt.
 
-1. 58. Thomas Woolsey.
+    _ 41. Geffry de Muschamp.
 
-    _ In English thus:
+    _ 42. Walter de Gray.
 
-1. 59. Stephen Gardiner.
+    _ 43. William de Cornehull.
 
-    _ In English thus:
+    _ 44. Alexander de Sauensby.
 
-1. 60. Iohn Poynet.
+    _ 45. Hugh de Pateshull.
 
-    _ In English thus:
+    _ 46. Roger de Weseham.
 
-1. 61. Iohn White.
+    _ 47. Roger de Molend, alias Longespe.
 
-    _ In English thus:
+    _ 47. Walter de Langton.
 
-1. 62. Robert Horne.
+    _ 48. Roger Northbrough.
 
-    _ In English thus:
+    _ 49. Robert Stretton.
 
-1. 63. Iohn Watson.
+    _ 50. Walter Skirlawe.
 
-    _ In English thus:
+    _ 51. Richard Scroope.
 
-1. 64. Thomas Cooper.
+    _ 52. Iohn Brughill.
 
-    _ In English thus:
+    _ 53. Iohn Keterich.
 
-1. 65. William Wickham.
+    _ 54. Iames Cary.
 
-    _ In English thus:
+    _ 55. William Haworth.
 
-1. 66. William Day.
+    _ 56. William Boothe.
 
-    _ In English thus:
+    _ 57. Nicholas Close.
 
-1. 67. Thomas Bilson.
+    _ 58. Reginald Buller.
 
-    _ In English thus:
+    _ 59. Iohn Halse.
 
-1. 1. Heruaeus.
+    _ 60. William Smith.
 
-    _ In English thus:
+    _ 61. Iohn Arundell.
 
-1. 2. Nigellus.
+    _ 62. Geoffry Blythe.
 
-    _ In English thus:
+    _ 63. Rowland Lee.
 
-1. 3. Galfridus Rydall.
+    _ 64. Richard Sampson.
 
-    _ In English thus:
+    _ 65. Ralf Bane.
 
-1. 4. William Langchamp.
+    _ 66. Thomas Bentham.
 
-    _ In English thus:
+    _ 67. William Ouerton.
 
-1. 5. Eustachius.
+1. The Bishops of Salisbury.
 
-    _ In English thus:
+    _ 1. Aldelm.
 
-1. 6. Iohn de Fontibus.
+    _ 2. Fordhere.
 
-    _ In English thus:
-
-1. 7. Geoffry de Burgo.
-
-    _ In English thus:
-
-1. 8. Hugh NorWold.
-
-    _ In English thus:
-
-1. 9. William de Kilkenny.
-
-    _ In English thus:
-
-1. 10. Hugh Balsam.
-
-    _ In English thus:
-
-1. 11. Iohn de Kyrkby.
-
-    _ In English thus:
-
-1. 12. William de Luda.
-
-    _ In English thus:
-
-1. 13. Ralph Walpoole.
-
-    _ In English thus:
-
-1. 14. Robert Orford.
-
-    _ In English thus:
-
-1. 15. Iohn de Keeton.
-
-    _ In English thus:
-
-1. 16. Iohn Hotham.
-
-    _ In English thus:
-
-1. 17. Simon Mountacute.
-
-    _ In English thus:
-
-1. 18. Thomas Lysle.
-
-    _ In English thus:
-
-1. 19. Simon Laugham.
-
-    _ In English thus:
-
-1. 20. Iohn Barnet.
-
-    _ In English thus:
-
-1. 21. Thomas Arundell.
-
-    _ In English thus:
-
-1. 22. Iohn Fordham.
-
-    _ In English thus:
-
-1. 23. Philip Morgan.
-
-    _ In English thus:
-
-1. 24. Lewes Lushborough.
-
-    _ In English thus:
-
-1. 25. Thomas Bourchier.
-
-    _ In English thus:
-
-1. 26. William Gray.
-
-    _ In English thus:
-
-1. 27. Iohn Moorton.
-
-    _ In English thus:
-
-1. 28. Iohn Alcock.
-
-    _ In English thus:
-
-1. 29. Richard Redman.
-
-    _ In English thus:
-
-1. 30. Iames Stanley.
-
-    _ In English thus:
-
-1. 31. Nicholas West.
-
-    _ In English thus:
-
-1. 32. Thomas Gooderich
-
-    _ In English thus:
-
-1. 33. Thomas Thirlby.
-
-    _ In English thus:
-
-1. 34. Richard Coxe.
-
-    _ In English thus:
-
-1. 35. Martyn 〈◊〉.
-
-    _ In English thus:
-
-1. 1. Remingius de Feschamp.
-
-    _ In English thus:
-
-1. 2. Robert Bloett.
-
-    _ In English thus:
-
-1. 3. Alexander.
-
-    _ In English thus:
-
-1. 4. Robert de Chisuey.
-
-    _ In English thus:
-
-1. 5. Geoffry Plantagenet.
-
-    _ In English thus:
-
-1. 6. Walter de Constantijs.
-
-    _ In English thus:
-
-1. 7. Saint Hugh.
-
-    _ In English thus:
-
-1. 8. William de Bleys.
-
-    _ In English thus:
-
-1. 9. Hugh de Wels.
-
-    _ In English thus:
-
-1. 10. Robert Grosse-teste
-
-    _ In English thus:
-
-1. 11. Henry Lexinton.
-
-    _ In English thus:
-
-1. 12. Benedictus Grauesend
-
-    _ In English thus:
-
-1. 13. Oliuer Sutton.
-
-    _ In English thus:
-
-1. 14. Iohn d'Aldarby.
-
-    _ In English thus:
-
-1. 15. Thomas Beake.
-
-    _ In English thus:
-
-1. 16. Henry Burwash.
-
-    _ In English thus:
-
-1. 17. Thomas le Becke.
-
-    _ In English thus:
-
-1. 18. Iohn Synwell.
-
-    _ In English thus:
-
-1. 19. Iohn Bokingham.
-
-    _ In English thus:
-
-1. 20. Henry Beaufort.
-
-    _ In English thus:
-
-1. 21. Philip Repingdon.
-
-    _ In English thus:
-
-1. 22. Richard Flemming.
-
-    _ In English thus:
-
-1. 23. William Gray.
-
-    _ In English thus:
-
-1. 24. William Alnewike.
-
-    _ In English thus:
-
-1. 25. Marmaduke Lumley.
-
-    _ In English thus:
-
-1. 26. Iohn Chedworth.
-
-    _ In English thus:
-
-1. 27. Thomas Rotheram.
-
-    _ In English thus:
-
-1. 28. Iohn Russell.
-
-    _ In English thus:
-
-1. 29. William Smith.
-
-    _ In English thus:
-
-1. 30. Thomas Woolsey.
-
-    _ In English thus:
-
-1. 31. William Atwater.
-
-    _ In English thus:
-
-1. 32. Iohn Longland.
-
-    _ In English thus:
-
-1. 33. Henry Holbech.
-
-    _ In English thus:
-
-1. 34. Iohn Tayler.
-
-    _ In English thus:
-
-1. 35. Iohn White.
-
-    _ In English thus:
-
-1. 36. Thomas Watson.
-
-    _ In English thus:
-
-1. 37. Nicholas Bullingham.
-
-    _ In English thus:
-
-1. 38. Thomas Cooper.
-
-    _ In English thus:
-
-1. 39. William Wickham.
-
-    _ In English thus:
-
-1. 40. William Chaderton.
-
-    _ In English thus:
-
-1. 1. Dwyna.
-
-    _ In English thus:
-
-1. 2. Cellach.
-
-    _ In English thus:
-
-1. 3. Trumhere.
-
-    _ In English thus:
-
-1. 4. Iaruman.
-
-    _ In English thus:
-
-1. 5. Cedda.
-
-    _ In English thus:
-
-1. 6. Winfride.
-
-    _ In English thus:
-
-1. 7. Saxulf.
-
-    _ In English thus:
-
-1. 8. Headda.
-
-    _ In English thus:
-
-1. 9. Aldwyn.
-
-    _ In English thus:
-
-1. 10. Witta.
-
-    _ In English thus:
-
-1. 33. Peter.
-
-    _ In English thus:
-
-1. 34. Robert de Limesey.
-
-    _ In English thus:
-
-1. 35. Robert Peche, alias Peccam.
-
-    _ In English thus:
-
-1. 36. Roger de Clinton.
-
-    _ In English thus:
-
-1. 37. Walter Durdent.
-
-    _ In English thus:
-
-1. 38. Richard Peche.
-
-    _ In English thus:
-
-1. 39. Girardus Puella.
-
-    _ In English thus:
-
-1. 40. Hugh Nouaunt.
-
-    _ In English thus:
-
-1. 41. Geffry de Muschamp.
-
-    _ In English thus:
-
-1. 42. Walter de Gray.
-
-    _ In English thus:
-
-1. 43. William de Cornehull.
-
-    _ In English thus:
-
-1. 44. Alexander de Sauensby.
-
-    _ In English thus:
-
-1. 45. Hugh de Pateshull.
-
-    _ In English thus:
-
-1. 46. Roger de Weseham.
-
-    _ In English thus:
-
-1. 47. Roger de Molend, alias Longespe.
-
-    _ In English thus:
-
-1. 47. Walter de Langton.
-
-    _ In English thus:
-
-1. 48. Roger Northbrough.
-
-    _ In English thus:
-
-1. 49. Robert Stretton.
-
-    _ In English thus:
-
-1. 50. Walter Skirlawe.
-
-    _ In English thus:
-
-1. 51. Richard Scroope.
-
-    _ In English thus:
-
-1. 52. Iohn Brughill.
-
-    _ In English thus:
-
-1. 53. Iohn Keterich.
-
-    _ In English thus:
-
-1. 54. Iames Cary.
-
-    _ In English thus:
-
-1. 55. William Haworth.
-
-    _ In English thus:
-
-1. 56. William Boothe.
-
-    _ In English thus:
-
-1. 57. Nicholas Close.
-
-    _ In English thus:
-
-1. 58. Reginald Buller.
-
-    _ In English thus:
-
-1. 59. Iohn Halse.
-
-    _ In English thus:
-
-1. 60. William Smith.
-
-    _ In English thus:
-
-1. 61. Iohn Arundell.
-
-    _ In English thus:
-
-1. 62. Geoffry Blythe.
-
-    _ In English thus:
-
-1. 63. Rowland Lee.
-
-    _ In English thus:
-
-1. 64. Richard Sampson.
-
-    _ In English thus:
-
-1. 65. Ralf Bane.
-
-    _ In English thus:
-
-1. 66. Thomas Bentham.
-
-    _ In English thus:
-
-1. 67. William Ouerton.
-
-    _ In English thus:
-
-1. 1. Aldelm.
-
-    _ In English thus:
-
-1. 2. Fordhere.
-
-    _ In English thus:
-
-1. After him succeeded these;
-
-    _ In English thus:
+    _ After him succeeded these;
 After Ethelwald the Sée of Sherborne stoode void seuen yéeres by reason of the Danish wars. The yéer
-    _ In English thus:
+    _ Sherborne.
 
-1. Sherborne.
+    _ Wiltshire.
 
-    _ In English thus:
+    _ 1. Herman.
 
-1. Wiltshire.
+    _ 2. Osmond.
 
-    _ In English thus:
+    _ 3. Roger.
 
-1. 1. Herman.
+    _ 4. Ioceline.
 
-    _ In English thus:
+    _ 5. Hubert.
 
-1. 2. Osmond.
+    _ 6. Robert.
 
-    _ In English thus:
+    _ 7. Richard Poore.
 
-1. 3. Roger.
+    _ 8. Robert Byngham.
 
-    _ In English thus:
+    _ 9. William of Yorke.
 
-1. 4. Ioceline.
+    _ 10. Gyles de Brideport.
 
-    _ In English thus:
+    _ 11. Walter de la Wyle.
 
-1. 5. Hubert.
+    _ 12. Robert de Wikehampton.
 
-    _ In English thus:
+    _ 13. Walter Scammell.
 
-1. 6. Robert.
+    _ 14. Henry de Braundstone.
 
-    _ In English thus:
+    _ 15. Laurence de Hawkborne.
 
-1. 7. Richard Poore.
+    _ 16. William de Comer.
 
-    _ In English thus:
+    _ 17. Nicolas de Longespe.
 
-1. 8. Robert Byngham.
+    _ 18. Simon de Gaunt.
 
-    _ In English thus:
+    _ 19. Roger de Mortiuall.
 
-1. 9. William of Yorke.
+    _ 20. Robert Wyuyl.
 
-    _ In English thus:
+    _ 21. Ralfe Erghum.
 
-1. 10. Gyles de Brideport.
+    _ 22. Iohn Waltham.
 
-    _ In English thus:
+    _ 23. Richard Meltford.
 
-1. 11. Walter de la Wyle.
+    _ 24. Nicholas Bubwith.
 
-    _ In English thus:
+    _ 25. Robert Halam.
 
-1. 12. Robert de Wikehampton.
+    _ 26. Iohn Chaundler.
 
-    _ In English thus:
+    _ 27. Robert Neuill.
 
-1. 13. Walter Scammell.
+    _ 28. William Ayscoth.
 
-    _ In English thus:
+    _ 29. Richard Beauchamp.
 
-1. 14. Henry de Braundstone.
+    _ 30. Leonell Wooduill.
 
-    _ In English thus:
+    _ 31. Thomas Langton.
 
-1. 15. Laurence de Hawkborne.
+    _ 32. Iohn Blythe.
 
-    _ In English thus:
+    _ 33. Henry Deane.
 
-1. 16. William de Comer.
+    _ 34. Edmund Audeley.
 
-    _ In English thus:
+    _ 35. Laurent. Campegius.
 
-1. 17. Nicolas de Longespe.
+    _ 36. Nicholas Shaxston.
 
-    _ In English thus:
+    _ 37. Iohn Capon.
 
-1. 18. Simon de Gaunt.
+    _ 38. Iohn Iewell.
 
-    _ In English thus:
+    _ 39. Edmund Gheast.
 
-1. 19. Roger de Mortiuall.
+    _ 40. Iohn Piers.
 
-    _ In English thus:
+    _ 41. Iohn Coldwell
 
-1. 20. Robert Wyuyl.
+    _ 42. Henry Cotton.
 
-    _ In English thus:
+1. The Bishops of Bathe and Welles.
 
-1. 21. Ralfe Erghum.
+    _ 1. Plegmund. Aldeim
 
-    _ In English thus:
+    _ 15. Giso.
 
-1. 22. Iohn Waltham.
+    _ 16. Iohn de Villula.
 
-    _ In English thus:
+    _ 17. Godfry.
 
-1. 23. Richard Meltford.
+    _ 18. Robert.
 
-    _ In English thus:
+    _ 19. Reginald Fitzioceline.
 
-1. 24. Nicholas Bubwith.
+    _ 20. Sauaricus.
 
-    _ In English thus:
+    _ 21. Ioceline de Welles.
 
-1. 25. Robert Halam.
+    _ 22. Roger.
 
-    _ In English thus:
+    _ 23. William Bitton, or Button.
 
-1. 26. Iohn Chaundler.
+    _ 24. Walter Giffard.
 
-    _ In English thus:
+    _ 25. William Button or Bitton.
 
-1. 27. Robert Neuill.
+    _ 26. Robert Burnell.
 
-    _ In English thus:
+    _ 27. William de Marchia.
 
-1. 28. William Ayscoth.
+    _ 28. Walter Haselshaw.
 
-    _ In English thus:
+    _ 29. Iohn Drokensford.
 
-1. 29. Richard Beauchamp.
+    _ 30. Ralfc of Shrewsbury.
 
-    _ In English thus:
+    _ 31. Iohn Barnet.
 
-1. 30. Leonell Wooduill.
+    _ 32. Iohn Harewell.
 
-    _ In English thus:
+    _ 33. Walter Skirlaw.
 
-1. 31. Thomas Langton.
+    _ 34. Ralfe Erghum.
 
-    _ In English thus:
+    _ 35. Henry Bowet.
 
-1. 32. Iohn Blythe.
+    _ 36. Nicolas Bubwith.
 
-    _ In English thus:
+    _ 37. Iohn Stafford.
 
-1. 33. Henry Deane.
+    _ 38. Thomas Bekinton.
 
-    _ In English thus:
+    _ 39. Robert Stillington.
 
-1. 34. Edmund Audeley.
+    _ 40. Richard Foxe
 
-    _ In English thus:
+    _ 41. Oliuer King.
 
-1. 35. Laurent. Campegius.
+    _ 42. Hadrian de Castello.
 
-    _ In English thus:
+    _ 43. Thomas Woolsey.
 
-1. 36. Nicholas Shaxston.
+    _ 44. Iohn Clerke.
 
-    _ In English thus:
+    _ 45. William Knight.
 
-1. 37. Iohn Capon.
+    _ 46. William Barlowe.
 
-    _ In English thus:
+    _ 47. Gilbert Bourne.
 
-1. 38. Iohn Iewell.
+    _ 48. Gilbert Barkley.
 
-    _ In English thus:
+    _ 49. Thomas Godwyn.
 
-1. 39. Edmund Gheast.
-
-    _ In English thus:
-
-1. 40. Iohn Piers.
-
-    _ In English thus:
-
-1. 41. Iohn Coldwell
-
-    _ In English thus:
-
-1. 42. Henry Cotton.
-
-    _ In English thus:
-
-1. 1. Plegmund. Aldeim
-
-    _ In English thus:
-
-1. 15. Giso.
-
-    _ In English thus:
-
-1. 16. Iohn de Villula.
-
-    _ In English thus:
-
-1. 17. Godfry.
-
-    _ In English thus:
-
-1. 18. Robert.
-
-    _ In English thus:
-
-1. 19. Reginald Fitzioceline.
-
-    _ In English thus:
-
-1. 20. Sauaricus.
-
-    _ In English thus:
-
-1. 21. Ioceline de Welles.
-
-    _ In English thus:
-
-1. 22. Roger.
-
-    _ In English thus:
-
-1. 23. William Bitton, or Button.
-
-    _ In English thus:
-
-1. 24. Walter Giffard.
-
-    _ In English thus:
-
-1. 25. William Button or Bitton.
-
-    _ In English thus:
-
-1. 26. Robert Burnell.
-
-    _ In English thus:
-
-1. 27. William de Marchia.
-
-    _ In English thus:
-
-1. 28. Walter Haselshaw.
-
-    _ In English thus:
-
-1. 29. Iohn Drokensford.
-
-    _ In English thus:
-
-1. 30. Ralfc of Shrewsbury.
-
-    _ In English thus:
-
-1. 31. Iohn Barnet.
-
-    _ In English thus:
-
-1. 32. Iohn Harewell.
-
-    _ In English thus:
-
-1. 33. Walter Skirlaw.
-
-    _ In English thus:
-
-1. 34. Ralfe Erghum.
-
-    _ In English thus:
-
-1. 35. Henry Bowet.
-
-    _ In English thus:
-
-1. 36. Nicolas Bubwith.
-
-    _ In English thus:
-
-1. 37. Iohn Stafford.
-
-    _ In English thus:
-
-1. 38. Thomas Bekinton.
-
-    _ In English thus:
-
-1. 39. Robert Stillington.
-
-    _ In English thus:
-
-1. 40. Richard Foxe
-
-    _ In English thus:
-
-1. 41. Oliuer King.
-
-    _ In English thus:
-
-1. 42. Hadrian de Castello.
-
-    _ In English thus:
-
-1. 43. Thomas Woolsey.
-
-    _ In English thus:
-
-1. 44. Iohn Clerke.
-
-    _ In English thus:
-
-1. 45. William Knight.
-
-    _ In English thus:
-
-1. 46. William Barlowe.
-
-    _ In English thus:
-
-1. 47. Gilbert Bourne.
-
-    _ In English thus:
-
-1. 48. Gilbert Barkley.
-
-    _ In English thus:
-
-1. 49. Thomas Godwyn.
-
-    _ In English thus:
-
-1. 50. Iohn Styll.
-
-    _ In English thus:
+    _ 50. Iohn Styll.
 The Deanry of Welles was first erected in the time of king Stephen about the yéere 1150. as before i
-    _ In English thus:
+1. The Bishops of Exceter.
 
-1. 10. Stigandus.
+1. A Catalogue of the Bishops of Deuonshire.
 
-    _ In English thus:
+1. The Bishops of Exceter.
 
-1. 11. Grinketellus.
+1. Foelix first Bishop of Norwich.
 
-    _ In English thus:
+    _ 10. Stigandus.
 
-1. 12. Egelmare.
+    _ 11. Grinketellus.
 
-    _ In English thus:
+    _ 12. Egelmare.
 
-1. Arfastus the first Bishop of Thetford.
+    _ Arfastus the first Bishop of Thetford.
 
-    _ In English thus:
+    _ William Herbert last of Thetford and first Bishop of Norwich.
 
-1. William Herbert last of Thetford and first Bishop of Norwich.
+    _ 2. Euerard.
 
-    _ In English thus:
+    _ 3. William Turbus.
 
-1. 2. Euerard.
+    _ 4. Iohannes Oxoniensis.
 
-    _ In English thus:
+    _ 5. Iohannes de Grey.
 
-1. 3. William Turbus.
+    _ 6. Pandulfus.
 
-    _ In English thus:
+    _ 7. Thomas de Blundeuill.
 
-1. 4. Iohannes Oxoniensis.
+    _ 8. Radulphus.
 
-    _ In English thus:
+    _ 9. William de Raleigh.
 
-1. 5. Iohannes de Grey.
+    _ Walter de Sufield.
 
-    _ In English thus:
+    _ 11. Simon de Wanton.
 
-1. 6. Pandulfus.
+    _ 12. Rogerus de Skerwyng.
 
-    _ In English thus:
+    _ 13. William Middleton.
 
-1. 7. Thomas de Blundeuill.
+    _ 14. Radulphus de Walpoole.
 
-    _ In English thus:
+    _ 5. Iohn Salmon.
 
-1. 8. Radulphus.
+    _ 16. Gulielmus Ayerminus.
 
-    _ In English thus:
+    _ 17. Anthony de Beck.
 
-1. 9. William de Raleigh.
+    _ 18. Gulielmus Bateman.
 
-    _ In English thus:
+    _ 19. Thomas Percy.
 
-1. Walter de Sufield.
+    _ 20. Henricus Spencer.
 
-    _ In English thus:
+    _ 21. Alexander.
 
-1. 11. Simon de Wanton.
+    _ 22. Richard Courtney.
 
-    _ In English thus:
+    _ 23. Iohn Wakering.
 
-1. 12. Rogerus de Skerwyng.
+    _ 24. William 〈◊〉.
 
-    _ In English thus:
+    _ 25. Thomas Browne.
 
-1. 13. William Middleton.
+    _ 26. Gualter Hart.
 
-    _ In English thus:
+    _ 27. Iames Goldwell.
 
-1. 14. Radulphus de Walpoole.
+    _ 28. Thomas Ian.
 
-    _ In English thus:
+    _ 29. Richard Nyx.
 
-1. 5. Iohn Salmon.
+    _ 30. William Rugge.
 
-    _ In English thus:
+    _ 31. Thomas Thyrlbey.
 
-1. 16. Gulielmus Ayerminus.
+    _ 32. Iohn Hopton.
 
-    _ In English thus:
+    _ 33. Thomas Parkhurst.
 
-1. 17. Anthony de Beck.
+    _ 34. Edmund Freake.
 
-    _ In English thus:
+    _ 35. Edmund Scambler.
 
-1. 18. Gulielmus Bateman.
+    _ 36. William Redman.
 
-    _ In English thus:
+1. The Bishops of Worceter.
 
-1. 19. Thomas Percy.
+1. The Bishops of Hereford.
 
-    _ In English thus:
+1. The Bishops of Chichester.
 
-1. 20. Henricus Spencer.
+1. The Bishops of Rochester.
 
-    _ In English thus:
+1. The Bishops of Oxford.
 
-1. 21. Alexander.
+    _ 1. Robert King.
 
-    _ In English thus:
+    _ 2. Hugh Curwyn.
 
-1. 22. Richard Courtney.
+    _ 3. Iohn Vnderhyll.
 
-    _ In English thus:
+1. The Bishops of Glocester.
 
-1. 23. Iohn Wakering.
+1. The Bishops of Peterborough.
 
-    _ In English thus:
+    _ 1. Iohn Chambers.
 
-1. 24. William 〈◊〉.
+    _ 2. Dauid Poole.
 
-    _ In English thus:
+    _ 3. Edmund Scambler.
 
-1. 25. Thomas Browne.
+    _ 4. Richard Howland.
 
-    _ In English thus:
+    _ 5. Thomas Doue.
 
-1. 26. Gualter Hart.
+1. The Bishops of Bristoll.
 
-    _ In English thus:
+    _ 1. Paul Bush.
 
-1. 27. Iames Goldwell.
+    _ 2. Iohn Holyman.
 
-    _ In English thus:
+    _ 3. Richard Cheyny.
 
-1. 28. Thomas Ian.
+    _ 4. Iohn Bullingham.
 
-    _ In English thus:
+    _ 5. Richard Fletcher.
 
-1. 29. Richard Nyx.
+1. The Bishops of S. Dauids.
 
-    _ In English thus:
+    _ 1. Saint Dauid.
 
-1. 30. William Rugge.
+1. The Bishops of Landaff.
+For want of some instructions, I can not as yet set downe a perfect Catalogue of the Bishops of Bang
+1. The Archbishops of Yorke.
 
-    _ In English thus:
+    _ 1. Paulinus.
 
-1. 31. Thomas Thyrlbey.
+    _ 2. Cedda.
 
-    _ In English thus:
+    _ 3. Wilfridus.
 
-1. 32. Iohn Hopton.
+    _ 4. Bosa.
 
-    _ In English thus:
+    _ 5. Iohn.
 
-1. 33. Thomas Parkhurst.
+    _ 6. Wilfridus. 2.
 
-    _ In English thus:
+    _ 7. Egbert.
 
-1. 34. Edmund Freake.
+    _ 8. Coena alias Albertus.
 
-    _ In English thus:
+    _ 9. Eanbaldus.
 
-1. 35. Edmund Scambler.
+    _ 10. Eanbaldus. 2.
 
-    _ In English thus:
+    _ 11. Wulsius.
 
-1. 36. William Redman.
+    _ 12. Wimundus.
 
-    _ In English thus:
+    _ 13. Wilferus.
 
-1. 1. Robert King.
+    _ 14. Ethelbalde.
 
-    _ In English thus:
+    _ 15. Redwarde.
 
-1. 2. Hugh Curwyn.
+    _ 16. Wulstanus.
 
-    _ In English thus:
+    _ 17. Oskitell.
 
-1. 3. Iohn Vnderhyll.
+    _ 18. Athelwold.
 
-    _ In English thus:
+    _ 19. Oswald.
 
-1. 1. Iohn Chambers.
+    _ 20. Aldulfe.
 
-    _ In English thus:
+    _ 21. Wulstan 2.
 
-1. 2. Dauid Poole.
+    _ 22. Alfricus Puttoc.
 
-    _ In English thus:
+    _ 23. Kinsius
 
-1. 3. Edmund Scambler.
+    _ 24. Aldredus.
 
-    _ In English thus:
+    _ 25. Thomas.
 
-1. 4. Richard Howland.
+    _ 26. Gerard.
 
-    _ In English thus:
+    _ 27. Thomas. 2.
 
-1. 5. Thomas Doue.
+    _ 28. Thurstan.
 
-    _ In English thus:
+    _ 29. Henry Murdac.
 
-1. 1. Paul Bush.
+    _ 3. Saint William.
 
-    _ In English thus:
+    _ 31. Roger.
 
-1. 2. Iohn Holyman.
+    _ 33. Walter Gray.
 
-    _ In English thus:
+    _ 34. Sewall.
 
-1. 3. Richard Cheyny.
+    _ 35. Godfry de Kinton.
 
-    _ In English thus:
+    _ 36. Walter Giffard.
 
-1. 4. Iohn Bullingham.
+    _ 37. William Wickwane.
 
-    _ In English thus:
+    _ 38. Iohn Romano.
 
-1. 5. Richard Fletcher.
+    _ 39. Henry Newerk.
 
-    _ In English thus:
+    _ 40. Thomas de Corbridg.
 
-1. 1. Saint Dauid.
+    _ 41. William de Greenfield.
 
-    _ In English thus:
+    _ 42. William de Melton.
 
-1. 1. Paulinus.
+    _ 43. William de Zouche.
 
-    _ In English thus:
+    _ 44. Iohn Thursby.
 
-1. 2. Cedda.
+    _ 45. Alexander Neuill.
 
-    _ In English thus:
+    _ 46. Thomas Arundell.
 
-1. 3. Wilfridus.
+    _ 47. Robert Waldby.
 
-    _ In English thus:
+    _ 48. Richard Scroope.
 
-1. 4. Bosa.
+    _ 49. Henry Bowett.
 
-    _ In English thus:
+    _ 50. Iohn Kemp.
 
-1. 5. Iohn.
+    _ 51. William Boothe.
 
-    _ In English thus:
+    _ 52. George Neuell.
 
-1. 6. Wilfridus. 2.
+    _ 53. Lawrence Boothe.
 
-    _ In English thus:
+    _ 54. Thomas Rotheram alias Scot.
 
-1. 7. Egbert.
+    _ 55. Thomas Sauage.
 
-    _ In English thus:
+    _ 56. Christopher Bambridg.
 
-1. 8. Coena alias Albertus.
+    _ 57. Thomas Woolsey.
 
-    _ In English thus:
+    _ 58. Edward Lee.
 
-1. 9. Eanbaldus.
+    _ 59. Robert Holgate.
 
-    _ In English thus:
+    _ 60. Nicolas Heath.
 
-1. 10. Eanbaldus. 2.
+    _ 61. Thomas Yoong.
 
-    _ In English thus:
+    _ 62. Edmund Grindall.
 
-1. 11. Wulsius.
+    _ 63. Edwyn Sandes.
 
-    _ In English thus:
+    _ 64. Iohn Piers.
 
-1. 12. Wimundus.
+    _ 65. Mathew Hutton.
 
-    _ In English thus:
+1. The Bishops of Durham.
 
-1. 13. Wilferus.
+    _ 1. Aidanus.
 
-    _ In English thus:
+    _ 2. Finan.
 
-1. 14. Ethelbalde.
+    _ 3. Coleman.
 
-    _ In English thus:
+    _ 4. Tuda.
 
-1. 15. Redwarde.
+    _ 5. Eata.
 
-    _ In English thus:
+    _ 6. S. Cutbert.
 
-1. 16. Wulstanus.
+    _ 7. Eadbertus.
 
-    _ In English thus:
+    _ After Edbert followed in order successiuely these:
 
-1. 17. Oskitell.
-
-    _ In English thus:
-
-1. 18. Athelwold.
-
-    _ In English thus:
-
-1. 19. Oswald.
-
-    _ In English thus:
-
-1. 20. Aldulfe.
-
-    _ In English thus:
-
-1. 21. Wulstan 2.
-
-    _ In English thus:
-
-1. 22. Alfricus Puttoc.
-
-    _ In English thus:
-
-1. 23. Kinsius
-
-    _ In English thus:
-
-1. 24. Aldredus.
-
-    _ In English thus:
-
-1. 25. Thomas.
-
-    _ In English thus:
-
-1. 26. Gerard.
-
-    _ In English thus:
-
-1. 27. Thomas. 2.
-
-    _ In English thus:
-
-1. 28. Thurstan.
-
-    _ In English thus:
-
-1. 29. Henry Murdac.
-
-    _ In English thus:
-
-1. 3. Saint William.
-
-    _ In English thus:
-
-1. 31. Roger.
-
-    _ In English thus:
-
-1. 33. Walter Gray.
-
-    _ In English thus:
-
-1. 34. Sewall.
-
-    _ In English thus:
-
-1. 35. Godfry de Kinton.
-
-    _ In English thus:
-
-1. 36. Walter Giffard.
-
-    _ In English thus:
-
-1. 37. William Wickwane.
-
-    _ In English thus:
-
-1. 38. Iohn Romano.
-
-    _ In English thus:
-
-1. 39. Henry Newerk.
-
-    _ In English thus:
-
-1. 40. Thomas de Corbridg.
-
-    _ In English thus:
-
-1. 41. William de Greenfield.
-
-    _ In English thus:
-
-1. 42. William de Melton.
-
-    _ In English thus:
-
-1. 43. William de Zouche.
-
-    _ In English thus:
-
-1. 44. Iohn Thursby.
-
-    _ In English thus:
-
-1. 45. Alexander Neuill.
-
-    _ In English thus:
-
-1. 46. Thomas Arundell.
-
-    _ In English thus:
-
-1. 47. Robert Waldby.
-
-    _ In English thus:
-
-1. 48. Richard Scroope.
-
-    _ In English thus:
-
-1. 49. Henry Bowett.
-
-    _ In English thus:
-
-1. 50. Iohn Kemp.
-
-    _ In English thus:
-
-1. 51. William Boothe.
-
-    _ In English thus:
-
-1. 52. George Neuell.
-
-    _ In English thus:
-
-1. 53. Lawrence Boothe.
-
-    _ In English thus:
-
-1. 54. Thomas Rotheram alias Scot.
-
-    _ In English thus:
-
-1. 55. Thomas Sauage.
-
-    _ In English thus:
-
-1. 56. Christopher Bambridg.
-
-    _ In English thus:
-
-1. 57. Thomas Woolsey.
-
-    _ In English thus:
-
-1. 58. Edward Lee.
-
-    _ In English thus:
-
-1. 59. Robert Holgate.
-
-    _ In English thus:
-
-1. 60. Nicolas Heath.
-
-    _ In English thus:
-
-1. 61. Thomas Yoong.
-
-    _ In English thus:
-
-1. 62. Edmund Grindall.
-
-    _ In English thus:
-
-1. 63. Edwyn Sandes.
-
-    _ In English thus:
-
-1. 64. Iohn Piers.
-
-    _ In English thus:
-
-1. 65. Mathew Hutton.
-
-    _ In English thus:
-
-1. 1. Aidanus.
-
-    _ In English thus:
-
-1. 2. Finan.
-
-    _ In English thus:
-
-1. 3. Coleman.
-
-    _ In English thus:
-
-1. 4. Tuda.
-
-    _ In English thus:
-
-1. 5. Eata.
-
-    _ In English thus:
-
-1. 6. S. Cutbert.
-
-    _ In English thus:
-
-1. 7. Eadbertus.
-
-    _ In English thus:
-
-1. After Edbert followed in order successiuely these:
-
-    _ In English thus:
-
-1. 11. Higbald.
-
-    _ In English thus:
+    _ 11. Higbald.
 12. Egbert.13. Egfredus, he died an. 845.14. Eaubert, he died an. 854.15. Eardulf.16. Cuthard, he di
-    _ In English thus:
+    _ 23. Aldhunus or Aldiuinus.
 
-1. 23. Aldhunus or Aldiuinus.
+    _ 24. Eadmund.
 
-    _ In English thus:
+    _ 25. Eadred.
 
-1. 24. Eadmund.
+    _ 26. Egelric.
 
-    _ In English thus:
+    _ 27. Egelwyn.
 
-1. 25. Eadred.
+    _ 28. Walter.
 
-    _ In English thus:
+    _ 29. William Kairlipho.
 
-1. 26. Egelric.
+    _ 30. Ranulf Flambard.
 
-    _ In English thus:
+    _ 31. Geoffry Rusus.
 
-1. 27. Egelwyn.
+    _ 32. Will. de Sancta Barbara.
 
-    _ In English thus:
+    _ 33. Hugh Pusar.
 
-1. 28. Walter.
+    _ 34. Philip of Poitiers.
 
-    _ In English thus:
+    _ 35. Richard de Marisco.
 
-1. 29. William Kairlipho.
+    _ 36. Richard Poore.
 
-    _ In English thus:
+    _ 37. Nicholas de Farnham.
 
-1. 30. Ranulf Flambard.
+    _ 38. Walter de Kirkham.
 
-    _ In English thus:
+    _ 39. Robert Stitchell.
 
-1. 31. Geoffry Rusus.
+    _ 40. Robert de Insula.
 
-    _ In English thus:
+    _ 41. Antony Beake.
 
-1. 32. Will. de Sancta Barbara.
+    _ 42. Richard Kellow.
 
-    _ In English thus:
+    _ 43. Lewes Beaumont.
 
-1. 33. Hugh Pusar.
+    _ 44. Richard de Bury.
 
-    _ In English thus:
+    _ 45. Thomas Hatfield.
 
-1. 34. Philip of Poitiers.
+    _ 46. Iohn Fordham.
 
-    _ In English thus:
+    _ 47. Walter Skirlaw.
 
-1. 35. Richard de Marisco.
+    _ 48. Thomas Langley.
 
-    _ In English thus:
+    _ 49. Robert Neuill.
 
-1. 36. Richard Poore.
+    _ 50. Laurence Boothe.
 
-    _ In English thus:
+    _ 51. William Dudley.
 
-1. 37. Nicholas de Farnham.
+    _ 52. Iohn Sherwood.
 
-    _ In English thus:
+    _ 53. Richard Fox.
 
-1. 38. Walter de Kirkham.
+    _ 54. William Seuerus.
 
-    _ In English thus:
+    _ 55. Christopher Bambridge.
 
-1. 39. Robert Stitchell.
+    _ 56. Thomas Ruthall.
 
-    _ In English thus:
+    _ 57. Thomas Woolsey.
 
-1. 40. Robert de Insula.
+    _ 58. Cutbert Tnnstall.
 
-    _ In English thus:
+    _ Iames Pilkinton.
 
-1. 41. Antony Beake.
+    _ 60. Richard Barnes.
 
-    _ In English thus:
+    _ 61. Matthew Hutton.
 
-1. 42. Richard Kellow.
+    _ 62. Tobias Matthew.
 
-    _ In English thus:
+1. Carlile.
 
-1. 43. Lewes Beaumont.
+1. The Bishops of Carlile.
 
-    _ In English thus:
+1. The Bishops of Chester.
 
-1. 44. Richard de Bury.
+    _ 1. Iohn Byrd.
 
-    _ In English thus:
+    _ 2. Iohn Coates.
 
-1. 45. Thomas Hatfield.
+    _ 3. Cutbert Scot.
 
-    _ In English thus:
+    _ 4. William Downham.
 
-1. 46. Iohn Fordham.
+    _ 5. William Chaderton.
 
-    _ In English thus:
+    _ 6. Hugh Billet.
 
-1. 47. Walter Skirlaw.
-
-    _ In English thus:
-
-1. 48. Thomas Langley.
-
-    _ In English thus:
-
-1. 49. Robert Neuill.
-
-    _ In English thus:
-
-1. 50. Laurence Boothe.
-
-    _ In English thus:
-
-1. 51. William Dudley.
-
-    _ In English thus:
-
-1. 52. Iohn Sherwood.
-
-    _ In English thus:
-
-1. 53. Richard Fox.
-
-    _ In English thus:
-
-1. 54. William Seuerus.
-
-    _ In English thus:
-
-1. 55. Christopher Bambridge.
-
-    _ In English thus:
-
-1. 56. Thomas Ruthall.
-
-    _ In English thus:
-
-1. 57. Thomas Woolsey.
-
-    _ In English thus:
-
-1. 58. Cutbert Tnnstall.
-
-    _ In English thus:
-
-1. Iames Pilkinton.
-
-    _ In English thus:
-
-1. 60. Richard Barnes.
-
-    _ In English thus:
-
-1. 61. Matthew Hutton.
-
-    _ In English thus:
-
-1. 62. Tobias Matthew.
-
-    _ In English thus:
-
-1. 1. Iohn Byrd.
-
-    _ In English thus:
-
-1. 2. Iohn Coates.
-
-    _ In English thus:
-
-1. 3. Cutbert Scot.
-
-    _ In English thus:
-
-1. 4. William Downham.
-
-    _ In English thus:
-
-1. 5. William Chaderton.
-
-    _ In English thus:
-
-1. 6. Hugh Billet.
-
-    _ In English thus:
-
-1. 7. Richard Vaughan.
-
-    _ In English thus:
+    _ 7. Richard Vaughan.
 
 **Types of content**
 
